@@ -9,10 +9,12 @@
 * **Auto-Protocol Detection:** Intelligently handles both binary and text streams.
 * **Aero Glass UI:** Responsive web dashboard with real-time connection tracking.
 * **Asynchronous Core:** Built on `asyncio` for high-concurrency handling.
+* **Websocket SSL/TLS Support:** Supports TLS/SSL Certificate storage and usage with WSS
 
 ---
   
-<img width="1297" height="889" alt="Screenshot_20260207_130554" src="https://github.com/user-attachments/assets/36b3b9ce-e48f-4835-a84c-ca5f3d281993" />
+<img width="1515" height="810" alt="image" src="https://github.com/user-attachments/assets/01e00206-1800-4526-a9e7-aa896d8fae94" />
+
 
 ---
 
