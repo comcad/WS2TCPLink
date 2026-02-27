@@ -1,0 +1,11 @@
+services:
+  ws2tcp:
+    build: .
+    container_name: ws2tcp-manager
+    network_mode: host
+    environment:
+      - ADMIN_USER=YOUR_USERNAME
+      - ADMIN_PASS=YOUR_PASSWORD
+    volumes:
+      - ./app_data:/app/data
+    restart: unless-stopped
