@@ -10,10 +10,11 @@
 * **Aero Glass UI:** Responsive web dashboard with real-time connection tracking.
 * **Asynchronous Core:** Built on `asyncio` for high-concurrency handling.
 * **Websocket SSL/TLS Support:** Supports TLS/SSL Certificate storage and usage with WSS
+* **Packet Logging:** shows packet logs in real time
 
 ---
   
-<img width="1515" height="810" alt="image" src="https://github.com/user-attachments/assets/01e00206-1800-4526-a9e7-aa896d8fae94" />
+<img width="1272" height="879" alt="Screenshot_20260227_091241" src="https://github.com/user-attachments/assets/5ec2af52-85e4-42bb-b027-1d40e965b8aa" />
 
 
 ---
